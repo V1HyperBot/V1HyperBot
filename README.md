@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Nor Sodikin GitHub Profile! 🌟</h1>
+<h1 align="center">Welcome to V1HyperBot GitHub Profile! 🌟</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=V1HyperBot" alt="Profile Views" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Glow Effect" />
